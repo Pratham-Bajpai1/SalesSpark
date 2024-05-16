@@ -53,7 +53,9 @@ Welcome to the Business Sales Analysis project! This project dives deep into ana
 
 ## Real-Time DashBoard 🔄
 
-![Project Workflow](https://example.com/project_workflow_diagram.jpg)
+![Screenshot 2023-11-21 091235](https://github.com/Pratham-Bajpai1/SalesSpark/assets/124435912/41a9c467-0fa8-44ae-8599-d67012d2dbb3)
+
+**PowerBI Dashboard Link:** https://app.powerbi.com/links/U7M-FC7bGX?ctid=866f7fb5-6d0d-4904-b9b4-2a8baf60b820&pbi_source=linkShare
 
 ---
 
